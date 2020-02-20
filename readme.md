@@ -1,4 +1,4 @@
-# mon nouveau site web
+# Mon nouveau site web
 
 Un projet pour apprendre à utiliser GIT.
 
